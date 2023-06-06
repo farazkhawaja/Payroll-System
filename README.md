@@ -1,4 +1,4 @@
-# Employee Payroll Management System
+# Payroll Management System
 
 This project is a full-stack website developed to efficiently manage the employee payroll lifecycle. It provides a comprehensive solution that saves time and reduces errors in the payroll processes. With features like automated employee attendance tracking, salary tracking, and robust search and filter functionality, this system streamlines payroll management and generates monthly financial reports.
 
